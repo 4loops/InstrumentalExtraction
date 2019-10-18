@@ -1,0 +1,29 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: .\InstrumentalExtraction.aux
+The style file: IEEEbib.bst
+Database file #1: b.bib
+I was expecting an "="---line 60 of file b.bib
+ : @Comment  
+ :           Author = {Nugraha, Aditya Arie and Liutkus, Antoine and Vincent, Emmanuel},
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 87 of file b.bib
+ : @Comment  
+ :           Author = {Uhlich, Stefan and Giron, Franck and Mitsufuji, Yuki},
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 311 of file b.bib
+ : @Comment  
+ :           Annote = {10.1117/12.926411},
+I'm skipping whatever remains of this entry
+Repeated entry---line 437 of file b.bib
+ : @comment @inproceedings{online
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 463 of file b.bib
+ : @comment @inproceedings{separation
+ :                                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 531 of file b.bib
+ : @comment @inproceedings{filtering
+ :                                  ,
+I'm skipping whatever remains of this entry
+Warning--empty year in DNNSing
+(There were 6 error messages)

@@ -1,0 +1,134 @@
+\begin{thebibliography}{10}
+
+\bibitem{REPET}
+Z.~Rafii and B.~Pardo,
+\newblock ``Repeating pattern extraction technique (repet): A simple method for
+  music/voice separation,''
+\newblock {\em IEEE Transactions on Audio, Speech, and Language Processing},
+  vol. 21, no. 1, pp. 73--84, 2013.
+
+\bibitem{filtering}
+Antoine Liutkus, Zafar Rafii, Roland Badeau, Bryan Pardo, and Ga{\"e}l Richard,
+\newblock ``Adaptive filtering for music/voice separation exploiting the
+  repeating musical structure,''
+\newblock in {\em Acoustics, Speech and Signal Processing (ICASSP), 2012 IEEE
+  International Conference on}. IEEE, 2012, pp. 53--56.
+
+\bibitem{sisec}
+Shoko Araki, Francesco Nesta, Emmanuel Vincent, Zbynek Koldovsky, Guido Nolte,
+  Andreas Ziehe, and Alexis Benichoux,
+\newblock ``{The 2011 Signal Separation Evaluation Campaign (SiSEC2011): -
+  Audio source separation -},''
+\newblock in {\em {10th Int. Conf. on Latent Variable Analysis and Signal
+  Separation (LVA/ICA)}}, Tel Aviv, Israel, Mar. 2012, pp. 414--422.
+
+\bibitem{Vincent:2012ab}
+Emmanuel Vincent, Shoko Araki, Fabian Theis, Guido Nolte, Pau Bofill, Hiroshi
+  Sawada, Alexey Ozerov, Vikrham Gowreesunker, Dominik Lutter, and Ngoc Q.~K.
+  Duong,
+\newblock ``The signal separation evaluation campaign (2007--2010):
+  Achievements and remaining challenges,''
+\newblock {\em Signal Processing}, vol. 92, no. 8, pp. 1928--1936, 2012.
+
+\bibitem{stoter20182018}
+Fabian-Robert St{\"o}ter, Antoine Liutkus, and Nobutaka Ito,
+\newblock ``The 2018 signal separation evaluation campaign,''
+\newblock in {\em International Conference on Latent Variable Analysis and
+  Signal Separation}. Springer, 2018, pp. 293--305.
+
+\bibitem{bayes}
+C{\'e}dric F{\'e}votte,
+\newblock {\em Bayesian Audio Source Separation}, pp. 305--335,
+\newblock Springer Netherlands, Dordrecht, 2007.
+
+\bibitem{Haddad:2008aa}
+D.~B. Haddad, Diego~Barreto Haddad, M.~R. Petraglia, Mariane~Rembold Petraglia,
+  P.~B. Batalheiro, and Paulo~Bulkool Batalheiro,
+\newblock ``Performance evaluation of two semi-blind source separation
+  methods,''
+\newblock in {\em 2008 IEEE 9th Workshop on Signal Processing Advances in
+  Wireless Communications}. 2008, pp. 231--235, IEEE.
+
+\bibitem{DNNSpeech}
+Felix Weninger, John~R Hershey, Jonathan Le~Roux, and Bjorn Schuller,
+\newblock ``Discriminatively trained recurrent neural networks for
+  single-channel speech separation,''
+\newblock in {\em Signal and Information Processing (GlobalSIP), 2014 IEEE
+  Global Conference on}. IEEE, 2014, pp. 577--581.
+
+\bibitem{DNNSpech2}
+Po-Sen Huang, Minje Kim, Mark Hasegawa-Johnson, and Paris Smaragdis,
+\newblock ``Deep learning for monaural speech separation,''
+\newblock in {\em Acoustics, Speech and Signal Processing (ICASSP), 2014 IEEE
+  International Conference on}. 2014, pp. 1562--1566, IEEE.
+
+\bibitem{Dannenberg:2008aa}
+Roger~B. Dannenberg and Masataka Goto,
+\newblock ``Music structure analysis from acoustic signals,''
+\newblock {\em Handbook of Signal Processing in Acoustics}, pp. 305--331, 2008.
+
+\bibitem{liutkus:hal-00958661}
+Antoine Liutkus, Jean-Louis Durrieu, Laurent Daudet, and Ga{\"e}l Richard,
+\newblock ``{An overview of informed audio source separation},''
+\newblock in {\em {WIAMIS}}, Paris, France, 2013, pp. 1--4.
+
+\bibitem{DNNSing}
+Po-Sen Huang, Minje Kim, Mark Hasegawa-Johnson, and Paris Smaragdis,
+\newblock ``Singing-voice separation using deep recurrent neural networks,''
+\newblock in {\em Music Information Retrieval Exchange (MIREX), 2014}.
+
+\bibitem{fasst}
+Alexey Ozerov, Emmanuel Vincent, and Fr{\'e}d{\'e}ric Bimbot,
+\newblock ``{A General Flexible Framework for the Handling of Prior Information
+  in Audio Source Separation},''
+\newblock {\em {IEEE Transactions on Audio, Speech and Language Processing}},
+  vol. 20, no. 4, pp. 1118 -- 1133, May 2012,
+\newblock 16.
+
+\bibitem{Rafii:2014aa}
+Zafar Rafii, Zhiyao Duan, and Bryan Pardo,
+\newblock ``Combining rhythm-based and pitch-based methods for background and
+  melody separation,''
+\newblock {\em IEEE/ACM Transactions on Audio, Speech, and Language
+  Processing}, vol. 22, no. 12, pp. 1884--1893, 2014.
+
+\bibitem{separation}
+Zafar Rafii and Bryan Pardo,
+\newblock ``A simple music/voice separation method based on the extraction of
+  the repeating musical structure,''
+\newblock in {\em Acoustics, Speech and Signal Processing (ICASSP), 2011 IEEE
+  International Conference on}. IEEE, 2011, pp. 221--224.
+
+\bibitem{online}
+Zafar Rafii and Bryan Pardo,
+\newblock ``Online repet-sim for real-time speech enhancement,''
+\newblock in {\em Acoustics, Speech and Signal Processing (ICASSP), 2013 IEEE
+  International Conference on}. IEEE, 2013, pp. 848--852.
+
+\bibitem{Vincent:2006aa}
+E.~Vincent, R.~Gribonval, and C.~Fevotte,
+\newblock ``Performance measurement in blind audio source separation,''
+\newblock {\em IEEE Transactions on Audio, Speech, and Language Processing},
+  vol. 14, no. 4, pp. 1462--1469, 2006.
+
+\bibitem{emiya:inria-00567152}
+Valentin Emiya, Emmanuel Vincent, Niklas Harlander, and Volker Hohmann,
+\newblock ``{Subjective and objective quality assessment of audio source
+  separation},''
+\newblock {\em {IEEE Transactions on Audio, Speech and Language Processing}},
+  vol. 19, no. 7, pp. 2046--2057, Sept. 2011.
+
+\bibitem{BSS}
+Emmanuel Vincent, Hiroshi Sawada, Pau Bofill, Shoji Makino, and Justinian~P.
+  Rosca,
+\newblock {\em First Stereo Audio Source Separation Evaluation Campaign: Data,
+  Algorithms and Results}, vol. 4666, pp. 552--559,
+\newblock Springer Berlin Heidelberg, Berlin, Heidelberg, 2007.
+
+\bibitem{peass}
+Valentin Emiya, Emmanuel Vincent, Niklas Harlander, and Volker Hohmann,
+\newblock ``{The PEASS Toolkit - Perceptual Evaluation methods for Audio Source
+  Separation},'' {9th Int. Conf. on Latent Variable Analysis and Signal
+  Separation}, Sept. 2010.
+
+\end{thebibliography}
